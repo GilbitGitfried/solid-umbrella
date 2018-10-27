@@ -23,7 +23,7 @@ so that we can work as a team to resolve the issue.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+The team leader will keep track of deadlines and remind/check-in with team members to ensure everything is done.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
