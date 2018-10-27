@@ -1,4 +1,4 @@
-# xteam-exercise-2: solid-umbrella<GilbitGitfried, akatagato, qkralfn7>
+# xteam-exercise-2: solid-umbrella<GilbitGitfried>
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
