@@ -1,4 +1,4 @@
-# X-Team 101 Project Proposal
+# X-Team 101 Gift Planner
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,7 +35,7 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Gift Planner
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
