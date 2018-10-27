@@ -46,15 +46,21 @@ The main class runs a text menu for:
 
 1.) Adding a new friend
 
+
 2.) Removing a friend
+
 
 3.) Modifying a friend's information
 
+
 4.) Generating a gift-budget plan
+
 
 5.) Saving the stored friends to a file
 
+
 6.) Loading friends from a file
+
 
 When generating a gift-plan, you will specify a month and input a monthly budget. The program computes how much you can spend on each friend based on
 the ranking of how much you like them. A priority queue is created, and instances of "Person" are added. The priority queue then prints elements in order
