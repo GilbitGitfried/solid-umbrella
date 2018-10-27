@@ -46,21 +46,15 @@ The main class runs a text menu for:
 
 1.) Adding a new friend
 
-
 2.) Removing a friend
-
 
 3.) Modifying a friend's information
 
-
 4.) Generating a gift-budget plan
-
 
 5.) Saving the stored friends to a file
 
-
 6.) Loading friends from a file
-
 
 When generating a gift-plan, you will specify a month and input a monthly budget. The program computes how much you can spend on each friend based on
 the ranking of how much you like them. A priority queue is created, and instances of "Person" are added. The priority queue then prints elements in order
@@ -69,26 +63,74 @@ of "friendship rank", displaying the individual's name, their birthday, and how 
 ## Questions to answer for Exercise #2
 
 1. Name: 
+
 Gift Planner
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+The output will produce a list of people who have birthdays in the specified month, ranked by how good of a friend they are, with a specified amount for how much you can spend on their gift.
+
+Example:
+Ross Skelly - 1/16/1994 - $54
+June Tabithat - 1/4/1993 - $50
+Edgar Poe - 1/19/1890 - $12
+
+
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
+The input data is the data needed to construct an instance of "Person"
+
+Example:
+
+Input Name:
+"Ross Skelly"
+
+Input Birth month:
+"January"
+
+Input Day of birth:
+"16"
+
+Input Year of birth:
+"1994"
+
+Input on a scale of 1-10, how good of a friend this person is:
+"2"
 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+The UI for this program will be a text menu, run from the main class with options as follows:
+
+1.) Adding a new friend
+
+2.) Removing a friend
+
+3.) Modifying a friend's information
+
+4.) Generating a gift-budget plan
+
+5.) Saving the stored friends to a file
+
+6.) Loading friends from a file
+
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+We will need interfaces and implementations for a priority queue and a hash table. Another class to create instances of individuals will also be required. The main class will handle user interface/input and saving/loading information. The main class will also handle calls to helper classes when appropriate.
+
 
 
 Name each interface or class and briefly describe its function or purpose.
+Priority queue interface/class - ADT and implementation of a priority queue, used to organize the return order of indivduals
+Hash table interface/class - ADT and implementation of a hash table to store instances of Person class
+Person class - Used to construct and store data of individuals
+Main class - handle running of program and user interface and saving/loading files
 
 
 ## Edit and Submit this file and any figures referenced by this document.
