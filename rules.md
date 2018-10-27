@@ -14,7 +14,7 @@ team member strengths.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+We will communicate effectively using GroupMe and track progress/completion of tasks within Trello. 
 
 
 ## How will will communicate difficulties with a task assigned to us
