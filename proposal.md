@@ -34,7 +34,7 @@ Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: 
 Gift Planner
 
 
