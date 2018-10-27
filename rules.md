@@ -27,6 +27,9 @@ The team leader will keep track of deadlines and remind/check-in with team membe
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+1. Not being late to group meetings (like I did today)
+2. Try to help other team members as much as possible
+3. Try to complete subdivided/individual tasks delegetated to you.
+4. Enjoy being a good programmer
 
 
