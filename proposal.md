@@ -43,6 +43,7 @@ Name, Birthday, a "friendship" rank of how much you like them, and a budget for 
 A hash table can be used to store instances of "Person".
 
 The main class runs a text menu for:
+
 1.) Adding a new friend
 
 2.) Removing a friend
