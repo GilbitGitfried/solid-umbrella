@@ -134,10 +134,14 @@ We will need interfaces and implementations for a priority queue and a hash tabl
 
 
 
-Name each interface or class and briefly describe its function or purpose.
+Name each interface or class and briefly describe its function or purpose:
+
 Priority queue interface/class - ADT and implementation of a priority queue, used to organize the return order of indivduals
+
 Hash table interface/class - ADT and implementation of a hash table to store instances of Person class
+
 Person class - Used to construct and store data of individuals
+
 Main class - handle running of program and user interface and saving/loading files
 
 
