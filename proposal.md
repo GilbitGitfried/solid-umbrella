@@ -72,8 +72,11 @@ Gift Planner
 The output will produce a list of people who have birthdays in the specified month, ranked by how good of a friend they are, with a specified amount for how much you can spend on their gift.
 
 Example:
+
 Ross Skelly - 1/16/1994 - $54
+
 June Tabithat - 1/4/1993 - $50
+
 Edgar Poe - 1/19/1890 - $12
 
 
@@ -86,18 +89,23 @@ The input data is the data needed to construct an instance of "Person"
 Example:
 
 Input Name:
+
 "Ross Skelly"
 
 Input Birth month:
+
 "January"
 
 Input Day of birth:
+
 "16"
 
 Input Year of birth:
+
 "1994"
 
 Input on a scale of 1-10, how good of a friend this person is:
+
 "2"
 
 
