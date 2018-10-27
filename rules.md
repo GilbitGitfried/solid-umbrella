@@ -18,7 +18,8 @@ We will communicate effectively using GroupMe and track progress/completion of t
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+If a group member is struggling with their task, they will notify the rest of the group as soon as possible
+so that we can work as a team to resolve the issue.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
