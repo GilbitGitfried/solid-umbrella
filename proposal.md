@@ -32,6 +32,28 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+Problem: Each month, you have a limited budget to get each of your friends a birthday gift.
+You want to get some friends a better gift than others.
+
+Based on information about all of your friends and their birthdays, you want to know how much to spend
+on each friend, based on how good of a gift you want to get them.
+
+A "Person" class can contain the neccessary information about your friends, i.e.
+Name, Birthday, a "friendship" rank of how much you like them, and a budget for their gift (this field is generated later).
+A hash table can be used to store instances of "Person".
+
+The main class runs a text menu for:
+1.) Adding a new friend
+2.) Removing a friend
+3.) Modifying a friend's information
+4.) Generating a gift-budget plan
+5.) Saving the stored friends to a file
+6.) Loading friends from a file
+
+When generating a gift-plan, you will specify a month and input a monthly budget. The program computes how much you can spend on each friend based on
+the ranking of how much you like them. A priority queue is created, and instances of "Person" are added. The priority queue then prints elements in order
+of "friendship rank", displaying the individual's name, their birthday, and how much you can spend on their gift.
+
 ## Questions to answer for Exercise #2
 
 1. Name: 
